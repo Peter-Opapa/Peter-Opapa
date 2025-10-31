@@ -1,5 +1,5 @@
-# Hi there, I'm Peter Opapa 👋
-### A Data Engineer, Data Architect, and AI/ML Enthusiast
+# Hi there, Welcome 👋
+### A Data Engineer, Data Architect and AI/ML Enthusiast
 
 Hello! 👋 I'm **Peter Opapa**. I'm passionate about designing, building, and optimizing data-driven solutions that power insights and innovation. My journey is focused on bridging the gap between complex engineering and the power of data.
 
