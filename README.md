@@ -1,5 +1,5 @@
-# Hi there, Welcome 👋
-### A Data Engineer, Data Architect and AI/ML Enthusiast
+# Hi there, I'm Peter Opapa 👋
+### A Data Engineer, Data Architect, and AI/ML Enthusiast
 
 Hello! 👋 I'm **Peter Opapa**. I'm passionate about designing, building, and optimizing data-driven solutions that power insights and innovation. My journey is focused on bridging the gap between complex engineering and the power of data.
 
@@ -43,7 +43,7 @@ Here are the specific technologies I work with:
 **Programming, Databases & AI/ML:**<br>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a>
-  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark"/> </a>
+  <a href="httpsimg src="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/> </a>
   <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/> </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/> </a>
@@ -75,7 +75,7 @@ Here are the specific technologies I work with:
 - 🔭 I’m currently working on building scalable data pipelines and end-to-end ML models.
 - 🌱 I’m always learning and exploring new trends in Big Data, MLOps, and Data Architecture.
 - 🤝 I’m open to collaborating on challenging data engineering and AI projects.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/peter-opapa) or via [email](mailto:opapapeter82@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/peter-opapa), [WhatsApp](https://wa.me/+254743695612), or via [email](mailto:peteropapa82@gmail.com)
 - ⚡ Fun fact: The first 'computer bug' was literally a moth found trapped in a relay of the Harvard Mark II computer in 1947.
 
 <br/>
@@ -89,7 +89,11 @@ Here are the specific technologies I work with:
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
+  <a href="https://wa.me/+254743695612" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  &nbsp;
   <a href="mailto:peteropapa82@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  </p>
+</p>
