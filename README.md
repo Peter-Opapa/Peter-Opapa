@@ -8,7 +8,9 @@ Through personal and freelance projects, I have gained hands-on experience in bu
 Beyond tools, I bring a strong problem-solving mindset, attention to detail, and the ability to work collaboratively in diverse teams. I enjoy turning raw data into meaningful insights, building systems that scale, and applying AI/ML to practical challenges.
 
 <p align="center">
-  <a href="https://peteropapa.tech" target="_blank"><strong>peteropapa.tech</strong></a>
+  <a href="https://peteropapa.tech" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/My%20Portfolio-peteropapa.tech-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="My Portfolio"/>
+  </a>
 </p>
 <br/>
 
