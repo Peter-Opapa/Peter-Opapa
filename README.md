@@ -69,6 +69,22 @@ Here are the specific technologies I work with:
 
 ---
 
+## 🌟 Project Showcase
+
+| Project | Overview | Tech Stack |
+| :--- | :--- | :--- |
+| **Data Warehouse project: Medallion Architecture** | Built a production-ready SQL Server data warehouse using the Medallion architecture and T-SQL ETL... | Microsoft SQL Server, Powershell, Data Modelling, ETL, Git |
+| **Real-time Data Pipeline** | A real-time streaming pipeline ingesting people's profile data from an API, orchestrated by Airflow... | Apache Airflow, Apache Kafka, Apache Spark, Apache Cassandra, Docker, PostgreSQL, Python |
+| **Financial Transactions Pipeline** | Built a real-time financial analytics pipeline using Kafka, Flink SQL, and PostgreSQL... | Python, Apache Kafka, Apache Flink, PostgreSQL, Datadog, Docker |
+| **Azure Infrastructure Deployment Using Terraform** | Automates the deployment and management of Azure Kubernetes Service (AKS) infrastructure using Terraform... | Terraform, Azure CLI, GitHub Actions, Git, Azure Kubernetes Service, Azure Key Vault, Azure Active Directory |
+| **Jumia ELT Pipeline** | Implements a production-grade ELT data pipeline that scrapes laptop product data from Jumia Kenya... | Python (Pandas, Requests, Beautiful Soup), PostgreSQL, Docker |
+| **MovieLens Data Pipeline** | Showcases a modern ELT pipeline... extracts raw MovieLens 20M dataset from Azure Data Lake Storage Gen2, loads it into Snowflake... | dbt, Snowflake, Azure Data Lake Storage Gen2, Git, Github Actions, Github Pages |
+| **Weather Data Streaming Pipeline** | Demonstrates a comprehensive real-time weather data streaming pipeline using Azure cloud services... | Databricks, Azure Functions, Azure Event Hub, Azure Stream Analytics, Power BI, Azure Key Vault, Azure Cost Management |
+| **Azure Data Engineering Project** | Demonstrates the implementation of a production-ready Medallion Architecture (Bronze → Silver → Gold) pattern... | Pyspark, Azure Data Factory, Azure Data Lake Storage, Databricks, Azure Synapse Analytics, Power BI |
+| **Azure-Databricks Project with Unity Catalog** | Uses Azure Data Factory to ingest data from GitHub into ADLS Gen2. It follows a medallion architecture... | Azure Data Factory, Azure Data Lake, Databricks, Git, Delta Lake, Pyspark |
+
+---
+
 - 🔭 I’m currently working on building scalable data pipelines and end-to-end ML models.
 - 🌱 I’m always learning and exploring new trends in Big Data, MLOps, and Data Architecture.
 - 🤝 I’m open to collaborating on challenging data engineering and AI projects.
