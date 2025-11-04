@@ -1,4 +1,9 @@
 # Hi there, Welcome 👋
+<p align="center">
+  <a href="https://peteropapa.tech" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-peteropapa.tech-blue?style=plastic&logo=google-chrome&logoColor=white" alt="My Portfolio"/>
+  </a>
+</p>
 ### A Data Engineer, Data Architect and AI/ML Enthusiast
 
 Hello! 👋 I'm **Peter Opapa**. I'm passionate about designing, building, and optimizing data-driven solutions that power insights and innovation. My journey is focused on bridging the gap between complex engineering and the power of data.
@@ -7,11 +12,6 @@ Through personal and freelance projects, I have gained hands-on experience in bu
 
 Beyond tools, I bring a strong problem-solving mindset, attention to detail, and the ability to work collaboratively in diverse teams. I enjoy turning raw data into meaningful insights, building systems that scale, and applying AI/ML to practical challenges.
 
-<p align="center">
-  <a href="https://peteropapa.tech" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-peteropapa.tech-blue?style=plastic&logo=google-chrome&logoColor=white" alt="My Portfolio"/>
-  </a>
-</p>
 <br/>
 
 ---
