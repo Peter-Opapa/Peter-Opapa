@@ -13,7 +13,6 @@ Beyond tools, I bring a strong problem-solving mindset, attention to detail, and
   </a>
 </p>
 <br/>
-
 ---
 
 ### 💡 Core Skills
