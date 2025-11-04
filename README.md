@@ -9,10 +9,11 @@ Beyond tools, I bring a strong problem-solving mindset, attention to detail, and
 
 <p align="center">
   <a href="https://peteropapa.tech" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/My%20Portfolio-peteropapa.tech-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="My Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-peteropapa.tech-blue?style=plastic&logo=google-chrome&logoColor=white" alt="My Portfolio"/>
   </a>
 </p>
 <br/>
+
 ---
 
 ### 💡 Core Skills
